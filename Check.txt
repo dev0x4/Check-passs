@@ -1,2 +1,1 @@
-tk:dev0x4
-ps:1
+dev0x4:1
