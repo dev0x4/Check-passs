@@ -1,2 +1,6 @@
 dev0x4:1
 du:1
+na:1
+share1:1
+share2:1
+share@:1
