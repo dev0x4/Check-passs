@@ -1,5 +1,5 @@
-dev0x4:1
-du:1
-na:1
-duu:1
+dev0x4:1:100000xp
+du:1:3000xp
+na:1:6000xp
+duu:1:1xp
 c:c
